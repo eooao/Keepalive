@@ -66,9 +66,9 @@ user1,password1;user2,password2;user3,password3
 
    * 在仓库 `Settings` → `Secrets and variables` → `Actions` → `New repository secret` 中添加
 
-`Name` 填入 `TELEGRAM_BOT_TOKEN` ：TG BOT 的 TOKEN
+`Name` 填入 `TG_BOT_TOKEN` ：TG BOT 的 TOKEN
 
-`Secret` 填入 `TELEGRAM_CHAT_ID` ：接受信息的ID
+`Secret` 填入 `TG_CHAT_ID` ：接受信息的ID
 
 * 获取方式不用交了吧，不会搜一下就行
 
